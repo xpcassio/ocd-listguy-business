@@ -12,3 +12,9 @@ A carefully curated list of thing you might need or interesting stuff for your b
 | -------------------------------- | ----------------------- | ---: |
 | [Crater](https://craterapp.com/) | Open-source invoice app |      |
 
+
+### Organization
+
+| Link                             | Description             | Tags |
+| -------------------------------- | ----------------------- | ---: |
+| [Fyi](https://usefyi.com/templates/freelancer-templates/) | All the free resources and templates you need to get work done as a freelancer |      |
